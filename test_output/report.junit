@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='FastLaneDemoMoc2Tests.xctest' tests='4' failures='0'>
+  <testsuite name='FastLaneDemoMoc2Tests.FastLaneDemoMoc2Tests' tests='2' failures='0'>
+    <testcase classname='FastLaneDemoMoc2Tests.FastLaneDemoMoc2Tests' name='testExample' time='0.002'/>
+    <testcase classname='FastLaneDemoMoc2Tests.FastLaneDemoMoc2Tests' name='testPerformanceExample' time='0.359'/>
+  </testsuite>
+  <testsuite name='FastLaneDemoMoc2Tests.UserTests' tests='2' failures='0'>
+    <testcase classname='FastLaneDemoMoc2Tests.UserTests' name='testUserDescription' time='0.008'/>
+    <testcase classname='FastLaneDemoMoc2Tests.UserTests' name='testUserInit' time='0.001'/>
+  </testsuite>
+</testsuites>
