@@ -408,6 +408,7 @@
 				C3CD2D891E1F87840090FAD8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C3CD2D8A1E1F87840090FAD8 /* Build configuration list for PBXNativeTarget "FastLaneDemoMoc2Tests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +417,7 @@
 				C3CD2D8C1E1F87840090FAD8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

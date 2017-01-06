@@ -1,0 +1,17 @@
+lane :bonjour do
+  scan
+end
+
+lane :deploy do
+  if git_branch() == "master"
+
+    set_github_release(
+      repository_name: "LAcrym0/fastlane-demo-moc2",
+      name: "VERSION",
+      api_token: "TOKEN",
+      tag_name: "tag",
+      description: "changelog",
+      commitish: "master"
+    )
+  end
+end
